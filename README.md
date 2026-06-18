@@ -71,16 +71,6 @@ I enjoy designing clean architectures, optimizing database performance, and deve
 
 ---
 
-## 📈 Current Focus
-
-* Advanced System Design
-* Distributed Systems
-* High-Performance Backend Architectures
-* Artificial Intelligence & LLM Applications
-* Cloud-Native Development
-
----
-
 ## 🤝 Let's Connect
 
 I'm always interested in discussing:
